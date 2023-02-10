@@ -13,3 +13,9 @@ To run this repo, make sure you've got a mongo instance running on the default p
 
 > Note: we're using `"type": "module"` which allows us to use `await` at the top level.
 
+## Resources
+
+- `brew install mongodb-compass` (visual tool)
+
+- [Mongoose Docs](https://mongoosejs.com/docs/index.html)
+
